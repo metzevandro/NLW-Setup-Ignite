@@ -19,9 +19,9 @@ Você no controle da sua rotina!
 
 Projeto desenvolvido durante a NLW Setup, evento criado pela Rocketseat. Um evento 100% online e GRATUITO.
 
-Ocorreu do dia 16 ao dia 20 de Janeiro de 2023 e teve como intuito mostrar na prática o poder da stack NodeJS + ReactJS + React Native e como essas tecnologias podem te levar até os seus maiores objetivos como programador.
+Ocorreu dia 16 a 23 de Janeiro de 2023 e teve como intuito mostrar na prática o poder da stack NodeJS + ReactJS + React Native e como essas tecnologias podem te levar até os seus maiores objetivos como programador.
 
-<img src="./.github/Wallpaper - 1920x1080" alt="Wallpaper NLW Setup" />
+<img src="./.gitub/Wallpaper - 1920x1080.png" alt="Wallpaper NLW Setup" />
 
 ## Instalação
 
@@ -94,11 +94,7 @@ $ npm install
 </a>
 
 <a href="https://github.com/metzevandro" target="_blank">
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="metzxevandro@gmail.com" target="_blank">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="GitHub" src="https://avatars.githubusercontent.com/u/99353801?s=400&u=fbad208bf15350a9e06e3a81ca5434be5fd1c691&v=4"/>
 </a>
 
 <br/>
