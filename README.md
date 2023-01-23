@@ -62,9 +62,10 @@ $ npm run dev
 
 # O servidor inciará na porta 5173 - acesse <http://localhost:5173>
 
+```
+
 <img alt="Aplicação Web" src="./.github/Aplicação Web.png"/>
 
-```
 
 ### 📱 Rodando o App (Mobile)
 
@@ -82,9 +83,9 @@ $ npm install
 # Será aberto no terminal o menu do Expo onde poderá scanear o QR Code para executar o app 
 # diretamente no seu celular ou as opções de executar no emulador android ou iOS
 
-<img alt="Aplicação Mobile" src="./.github/Aplicação Mobile.png"/>
-
 ```
+
+<img alt="Aplicação Mobile" src="./.github/Aplicação Mobile.png"/>
 
 ## Tecnologias 
 
