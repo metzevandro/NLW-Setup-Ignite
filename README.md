@@ -85,7 +85,7 @@ $ npm install
 
 ```
 
-<img height="900px" alt="Aplicação Mobile" src="./.github/Aplicação Mobile.jpeg"/>
+<img height="500px" alt="Aplicação Mobile" src="./.github/Aplicação Mobile.jpeg"/>
 
 ## Tecnologias 
 
