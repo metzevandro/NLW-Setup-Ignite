@@ -21,7 +21,7 @@ Projeto desenvolvido durante a NLW Setup, evento criado pela Rocketseat. Um even
 
 Ocorreu dia 16 a 23 de Janeiro de 2023 e teve como intuito mostrar na prática o poder da stack NodeJS + ReactJS + React Native e como essas tecnologias podem te levar até os seus maiores objetivos como programador.
 
-<img src="./.gitub/Wallpaper - 1920x1080.png" alt="Wallpaper NLW Setup" />
+<img src="./.github/Wallpaper - NLW Setup.png" alt="Wallpaper NLW Setup" />
 
 ## Instalação
 
@@ -61,6 +61,9 @@ $ npm install
 $ npm run dev
 
 # O servidor inciará na porta 5173 - acesse <http://localhost:5173>
+
+<img alt="Aplicação Web" src="./.github/Aplicação Web.png"/>
+
 ```
 
 ### 📱 Rodando o App (Mobile)
@@ -78,12 +81,25 @@ $ npm install
 
 # Será aberto no terminal o menu do Expo onde poderá scanear o QR Code para executar o app 
 # diretamente no seu celular ou as opções de executar no emulador android ou iOS
+
+<img alt="Aplicação Mobile" src="./.github/Aplicação Mobile.png"/>
+
 ```
+
+## Tecnologias 
+
+<p align="center">
+  • <a href="https://pt-br.reactjs.org/">React</a> 
+  • <a href="https://expo.dev/">Expo</a>
+  • <a href="https://nodejs.org/en/">Node</a> 
+  • <a href="https://www.fastify.io/">Fastify</a>
+  • <a href="https://vitejs.dev/">Vite</a>  
+</p>
 
 ## Autor
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/99353801?v=4" />
+<img src="https://avatars.githubusercontent.com/u/99353801?s=400&u=fbad208bf15350a9e06e3a81ca5434be5fd1c691&v=4" />
 <h1>Evandro Metz</h1>
 <strong>Frontend Developer</strong>
 <br/>
@@ -94,7 +110,7 @@ $ npm install
 </a>
 
 <a href="https://github.com/metzevandro" target="_blank">
-<img alt="GitHub" src="https://avatars.githubusercontent.com/u/99353801?s=400&u=fbad208bf15350a9e06e3a81ca5434be5fd1c691&v=4"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
