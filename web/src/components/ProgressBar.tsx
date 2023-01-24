@@ -1,19 +1,20 @@
-interface ProgressBarProps {
+type ProgressBarProps = {
   progress: number
 }
 
-export function ProgressBar(props: ProgressBarProps) {
+function ProgressBar({ progress = 0 }: ProgressBarProps) {
+  const progressStyle = {
+    width: `${progress || 0}%`
+  }
+
   return (
-    <div className='h-3 rounded-xl bg-zinc-700 w-full mt-4'>
-      <div 
+    <div className="w-full h-3 mt-4 rounded-xl bg-zinc-700">
+      <div
         role="progressbar"
         aria-label="Progresso de hábitos completados nesse dia"
-        aria-valuenow={props.progress}
-        className="h-3 rounded-xl bg-violet-600 transition-all"
-        style={{
-          width: `${props.progress}%`
-        }}
-      />
+        aria-valuenow={progress}
+        className="h-3 transition-all rounded-xl bg-violet-600"
+        style={progressStyle}></div>
     </div>
   )
 }
